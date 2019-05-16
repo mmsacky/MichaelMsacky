@@ -1,0 +1,45 @@
+#banner{
+    height: 80vh;
+    background-color: #F16C55;
+    /* background-color: #DD4B4C; */
+}
+
+.text-title{
+    color: #F16C55;    
+}
+
+#htmlProgress{
+    width: 50%;
+}
+
+#cssProgress{
+    width: 70%;
+}
+
+#javaProgress{
+    width: 90%;
+}
+
+#bsProgress{
+    width: 95%;
+}
+
+#htmlIcon{
+    color: #E86229;
+}
+
+#cssIcon{
+    color: #1F5FAA;
+}
+
+#jsIcon{
+    color: #F0D91D;
+}
+
+#bsIcon{
+    color: #69419D;
+}
+
+#nodeIcon{
+    color: #88C349;
+}
